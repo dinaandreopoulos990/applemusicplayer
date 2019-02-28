@@ -1,2 +1,0 @@
-# mobrise
-GitHub Pages
